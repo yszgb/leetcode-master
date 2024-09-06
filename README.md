@@ -381,7 +381,3 @@
 # 算法模板 
 
 [各类基础算法模板](https://github.com/youngyangyang04/leetcode/blob/master/problems/算法模板.md)
-
-# 关于作者
-
-大家好，我是程序员Carl，哈工大师兄，《代码随想录》作者，先后在腾讯和百度从事后端技术底层技术研发。
