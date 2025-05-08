@@ -8,8 +8,8 @@
 4. [数组：977.有序数组的平方](./problems/0977.有序数组的平方.md)    
 5. [数组：209.长度最小的子数组](./problems/0209.长度最小的子数组.md)
 6. [数组：区间和](./problems/kamacoder/0058.区间和.md)
-6. [数组：59.螺旋矩阵II](./problems/0059.螺旋矩阵II.md)
-8. [数组：开发商购买土地](./problems/kamacoder/0044.开发商购买土地.md)
+7. [数组：开发商购买土地](./problems/kamacoder/0044.开发商购买土地.md)
+8. [数组：59.螺旋矩阵II](./problems/0059.螺旋矩阵II.md)
 9. [数组：总结篇](./problems/数组总结篇.md)
 
 ## 链表
@@ -42,9 +42,9 @@
 
 1. [字符串：344.反转字符串](./problems/0344.反转字符串.md)
 2. [字符串：541.反转字符串II](./problems/0541.反转字符串II.md)
-3. [字符串：替换数字](./problems/kama54.替换数字.md)
+3. [字符串：替换数字](./problems/kamacoder/0054.替换数字.md)
 4. [字符串：151.翻转字符串里的单词](./problems/0151.翻转字符串里的单词.md)
-5. [字符串：右旋字符串](./problems/kama55.右旋字符串.md)
+5. [字符串：右旋字符串](./problems/kamacoder/0055.右旋字符串.md)
 6. [帮你把KMP算法学个通透](./problems/0028.实现strStr.md)
 8. [字符串：459.重复的子字符串](./problems/0459.重复的子字符串.md)
 9. [字符串：总结篇！](./problems/字符串总结.md)
@@ -55,7 +55,7 @@
 
 1. [数组：27.移除元素](./problems/0027.移除元素.md)
 2. [字符串：344.反转字符串](./problems/0344.反转字符串.md)
-3. [字符串：替换数字](./problems/kama54.替换数字.md)
+3. [字符串：替换数字](./problems/kamacoder/0054.替换数字.md)
 4. [字符串：151.翻转字符串里的单词](./problems/0151.翻转字符串里的单词.md)
 5. [链表：206.翻转链表](./problems/0206.翻转链表.md)
 6. [链表：19.删除链表的倒数第 N 个结点](./problems/0019.删除链表的倒数第N个节点.md)
@@ -80,7 +80,7 @@
 ## 二叉树 
 
 题目分类大纲如下：           
-<img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20240424172231.png' width=600 alt='二叉树大纲'> </img></div>
+<img src='https://file.kamacoder.com/pics/20240424172231.png' width=600 alt='二叉树大纲'> </img></div>
 
 1. [关于二叉树，你该了解这些！](./problems/二叉树理论基础.md)
 2. [二叉树：二叉树的递归遍历](./problems/二叉树的递归遍历.md)
@@ -96,7 +96,6 @@
 12. [二叉树：110.平衡二叉树](./problems/0110.平衡二叉树.md)
 13. [二叉树：257.二叉树的所有路径](./problems/0257.二叉树的所有路径.md)
 14. [本周总结！（二叉树）](./problems/周总结/20201003二叉树周末总结.md)
-15. [二叉树：二叉树中递归带着回溯](./problems/二叉树中递归带着回溯.md)
 16. [二叉树：404.左叶子之和](./problems/0404.左叶子之和.md)
 17. [二叉树：513.找树左下角的值](./problems/0513.找树左下角的值.md)
 18. [二叉树：112.路径总和](./problems/0112.路径总和.md)
@@ -122,7 +121,7 @@
 
 题目分类大纲如下：             
 
-<img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20240424172311.png' width=600 alt='回溯算法大纲'> </img></div>
+<img src='https://file.kamacoder.com/pics/20240424172311.png' width=600 alt='回溯算法大纲'> </img></div>
 
 1. [关于回溯算法，你该了解这些！](./problems/回溯算法理论基础.md)
 2. [回溯算法：77.组合](./problems/0077.组合.md)
@@ -151,7 +150,8 @@
 
 题目分类大纲如下：             
 
-<img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20210917104315.png' width=600 alt='贪心算法大纲'> </img></div>
+
+<img src='https://file.kamacoder.com/pics/20210917104315.png' width=600 alt='贪心算法大纲'> </img></div>
 
 1. [关于贪心算法，你该了解这些！](./problems/贪心算法理论基础.md)
 2. [贪心算法：455.分发饼干](./problems/0455.分发饼干.md)
@@ -198,24 +198,26 @@
 
 <img src='https://code-thinking.cdn.bcebos.com/pics/动态规划-背包问题总结.png' width=500 alt='背包问题大纲'> </img></div>
 
-11. [动态规划：01背包理论基础](./problems/背包理论基础01背包-1.md)
-12. [动态规划：01背包理论基础（滚动数组）](./problems/背包理论基础01背包-2.md)
+
+11. [动态规划：01背包理论基础（二维dp数组）](./problems/背包理论基础01背包-1.md)
+12. [动态规划：01背包理论基础（一维dp数组）](./problems/背包理论基础01背包-2.md)
 13. [动态规划：416.分割等和子集](./problems/0416.分割等和子集.md)
 14. [动态规划：1049.最后一块石头的重量II](./problems/1049.最后一块石头的重量II.md)
 15. [本周小结！（动态规划系列三）](./problems/周总结/20210121动规周末总结.md)
 16. [动态规划：494.目标和](./problems/0494.目标和.md)
 17. [动态规划：474.一和零](./problems/0474.一和零.md) 
-18. [动态规划：完全背包总结篇](./problems/背包问题理论基础完全背包.md)
-19. [动态规划：518.零钱兑换II](./problems/0518.零钱兑换II.md)
-20. [本周小结！（动态规划系列四）](./problems/周总结/20210128动规周末总结.md)
-21. [动态规划：377.组合总和Ⅳ](./problems/0377.组合总和Ⅳ.md)
-22. [动态规划：70.爬楼梯（完全背包版本）](./problems/0070.爬楼梯完全背包版本.md)
-23. [动态规划：322.零钱兑换](./problems/0322.零钱兑换.md)
-24. [动态规划：279.完全平方数](./problems/0279.完全平方数.md)
-25. [本周小结！（动态规划系列五）](./problems/周总结/20210204动规周末总结.md)
-26. [动态规划：139.单词拆分](./problems/0139.单词拆分.md)
-27. [动态规划：多重背包理论基础](./problems/背包问题理论基础多重背包.md)
-28. [背包问题总结篇](./problems/背包总结篇.md)
+18. [动态规划：完全背包理论基础（二维dp数组）](./problems/背包问题理论基础完全背包.md)
+19. [动态规划：完全背包理论基础（一维dp数组）](./problems/背包问题完全背包一维.md)
+20. [动态规划：518.零钱兑换II](./problems/0518.零钱兑换II.md)
+21. [本周小结！（动态规划系列四）](./problems/周总结/20210128动规周末总结.md)
+22. [动态规划：377.组合总和Ⅳ](./problems/0377.组合总和Ⅳ.md)
+23. [动态规划：70.爬楼梯（完全背包版本）](./problems/0070.爬楼梯完全背包版本.md)
+24. [动态规划：322.零钱兑换](./problems/0322.零钱兑换.md)
+25. [动态规划：279.完全平方数](./problems/0279.完全平方数.md)
+26. [本周小结！（动态规划系列五）](./problems/周总结/20210204动规周末总结.md)
+27. [动态规划：139.单词拆分](./problems/0139.单词拆分.md)
+28. [动态规划：多重背包理论基础](./problems/背包问题理论基础多重背包.md)
+29. [背包问题总结篇](./problems/背包总结篇.md)
 
 打家劫舍系列：
 
@@ -279,9 +281,9 @@
 9. [图论：沉没孤岛](./problems/kamacoder/0102.沉没孤岛.md)
 10. [图论：水流问题](./problems/kamacoder/0103.水流问题.md)
 11. [图论：建造最大岛屿](./problems/kamacoder/0104.建造最大岛屿.md)
-12. [图论：字符串接龙](./problems/kamacoder/0110.字符串接龙.md)
-13. [图论：有向图的完全可达性](./problems/kamacoder/0105.有向图的完全可达性.md)
-14. [图论：岛屿的周长](./problems/kamacoder/0106.岛屿的周长.md)
+12. [图论：岛屿的周长](./problems/kamacoder/0106.岛屿的周长.md)
+13. [图论：字符串接龙](./problems/kamacoder/0110.字符串接龙.md)
+14. [图论：有向图的完全可达性](./problems/kamacoder/0105.有向图的完全可达性.md)
 15. [图论：并查集理论基础](./problems/kamacoder/图论并查集理论基础.md)
 16. [图论：寻找存在的路径](./problems/kamacoder/0107.寻找存在的路径.md)
 17. [图论：冗余连接](./problems/kamacoder/0108.冗余连接.md)
@@ -294,25 +296,14 @@
 24. [图论：Bellman_ford 算法](./problems/kamacoder/0094.城市间货物运输I.md)
 25. [图论：Bellman_ford 队列优化算法（又名SPFA）](./problems/kamacoder/0094.城市间货物运输I-SPFA.md)
 26. [图论：Bellman_ford之判断负权回路](./problems/kamacoder/0095.城市间货物运输II.md)
-27. [图论：Bellman_ford之单源有限最短路](./problems/kamacoder/0095.城市间货物运输II.md)
+27. [图论：Bellman_ford之单源有限最短路](./problems/kamacoder/0096.城市间货物运输III.md)
 28. [图论：Floyd 算法](./problems/kamacoder/0097.小明逛公园.md)
 29. [图论：A * 算法](./problems/kamacoder/0126.骑士的攻击astar.md)
 30. [图论：最短路算法总结篇](./problems/kamacoder/最短路问题总结篇.md)
 31. [图论：图论总结篇](./problems/kamacoder/图论总结篇.md)
 
-## 十大排序
 
-## 数论 
-
-## 高级数据结构经典题目 
-
-* 并查集 
-* 最小生成树 
-* 线段树 
-* 树状数组 
-* 字典树 
-
-## 海量数据处理
+（持续更新中....）
 
 # 补充题目
 
@@ -381,3 +372,24 @@
 # 算法模板 
 
 [各类基础算法模板](https://github.com/youngyangyang04/leetcode/blob/master/problems/算法模板.md)
+
+# 贡献者 
+
+[点此这里](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)查看LeetCode-Master的所有贡献者。感谢他们补充了LeetCode-Master的其他语言版本，让更多的读者受益于此项目。
+
+# Star 趋势
+
+[![Star History Chart](https://api.star-history.com/svg?repos=youngyangyang04/leetcode-master&type=Date)](https://star-history.com/#youngyangyang04/leetcode-master&Date)
+
+# 关于作者
+
+大家好，我是程序员Carl，哈工大师兄，《代码随想录》作者，先后在腾讯和百度从事后端技术底层技术研发。
+
+# PDF下载 
+
+添加如下企业微信，会自动发送给大家PDF版本，顺便可以选择是否加入刷题群。 
+
+添加微信记得备注，如果是已工作，备注：姓名-城市-岗位。如果学生，备注：姓名-学校-年级。**备注没有自我介绍不通过哦**
+
+<div align="center"><img src="https://file.kamacoder.com/pics/第二企业刷题活码.png" data-img="1" width="200" height="200"></img></div>
+
